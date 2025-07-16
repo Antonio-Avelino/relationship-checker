@@ -17,10 +17,4 @@ Este projeto tem como objetivo:
 - Node.js
 - TypeScript
 
-## 📦 Instalação
 
-```bash
-git clone https://github.com/seu-usuario/adonis-rel-check.git
-cd adonis-rel-check
-npm install
-node ace serve --watch
